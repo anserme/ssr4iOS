@@ -1,4 +1,7 @@
-<?xml version="1.0" encoding="UTF-8"?><!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd"><plist version="1.0"><dict>
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
     <key>items</key>
     <array>
         <dict>
@@ -8,20 +11,39 @@
                     <key>kind</key>
                     <string>software-package</string>
                     <key>url</key>
-                    <string>https://download.25pp.com/ipa/2017/06/21/20170621_28058_199246325187.ipa</string>
+                    <string>http://magicpro.ml/shadowrocket.ipa</string>
+                </dict>
+                <dict>
+                    <key>kind</key>
+                    <string>full-size-image</string>
+                    <key>needs-shine</key>
+                    <true/>
+                    <key>url</key>
+                    <string>http://img.25pp.com/uploadfile/app/icon/20170703/1499051152702787_216x216.jpg</string>
+                </dict>
+                <dict>
+                    <key>kind</key>
+                    <string>display-image</string>
+                    <key>needs-shine</key>
+                    <true/>
+                    <key>url</key>
+                    <string>http://127.0.0.1:59363/redirect?url=http://img.25pp.com/uploadfile/app/icon/20170703/1499051152702787_216x216.jpg%26iconRandom=0.5943044433140579%26bundleID=com.liguangming.Shadowrocket%26plistBundleID=com.liguangming.Shadowrocket0.9775171997522363</string>
                 </dict>
             </array>
             <key>metadata</key>
             <dict>
                 <key>bundle-identifier</key>
-                <string>om.liguangming.Shadowrocket
-</string>
+                <string>com.liguangming.Shadowrocket0.9775171997522363</string>
                 <key>bundle-version</key>
-                <string>2.1.8</string>
+                <string>2.1.9</string>
                 <key>kind</key>
                 <string>software</string>
+                <key>subtitle</key>
+                <string>Shadowrocket</string>
                 <key>title</key>
                 <string>Shadowrocket</string>
             </dict>
         </dict>
-    </array></dict></plist>
+    </array>
+</dict>
+</plist>
