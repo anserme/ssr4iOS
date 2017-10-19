@@ -27,7 +27,7 @@
                     <key>needs-shine</key>
                     <true/>
                     <key>url</key>
-                    <string>http://127.0.0.1:59363/redirect?url=http://img.25pp.com/uploadfile/app/icon/20170703/1499051152702787_216x216.jpg%26iconRandom=0.5943044433140579%26bundleID=com.liguangming.Shadowrocket%26plistBundleID=com.liguangming.Shadowrocket0.9775171997522363</string>
+                    <string>http://img.25pp.com/uploadfile/app/icon/20170703/1499051152702787_216x216.jpg%26iconRandom=0.5943044433140579%26bundleID=com.liguangming.Shadowrocket%26plistBundleID=com.liguangming.Shadowrocket0.9775171997522363</string>
                 </dict>
             </array>
             <key>metadata</key>
