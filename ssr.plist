@@ -13,27 +13,9 @@
                     <key>url</key>
                     <string>http://magicpro.ml/shadowrockek.ipa</string>
                 </dict>
-                <dict>
-                    <key>kind</key>
-                    <string>full-size-image</string>
-                    <key>needs-shine</key>
-                    <true/>
-                    <key>url</key>
-                    <string>http://img.25pp.com/uploadfile/app/icon/20170703/1499051152702787_216x216.jpg</string>
-                </dict>
-                <dict>
-                    <key>kind</key>
-                    <string>display-image</string>
-                    <key>needs-shine</key>
-                    <true/>
-                    <key>url</key>
-                    <string>http://img.25pp.com/uploadfile/app/icon/20170703/1499051152702787_216x216.jpg%26iconRandom=0.5943044433140579%26bundleID=com.liguangming.Shadowrocket%26plistBundleID=com.liguangming.Shadowrocket0.9775171997522363</string>
-                </dict>
-            </array>
+                    </array>
             <key>metadata</key>
             <dict>
-                <key>bundle-identifier</key>
-                <string>com.liguangming.Shadowrocket</string>
                 <key>bundle-version</key>
                 <string>2.1.9</string>
                 <key>kind</key>
