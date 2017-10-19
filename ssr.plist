@@ -33,7 +33,7 @@
             <key>metadata</key>
             <dict>
                 <key>bundle-identifier</key>
-                <string>com.liguangming.Shadowrocket0.9775171997522363</string>
+                <string>com.liguangming.Shadowrocket</string>
                 <key>bundle-version</key>
                 <string>2.1.9</string>
                 <key>kind</key>
